@@ -1,0 +1,81 @@
+﻿  main.cpp
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\ShapeDrawer.h(67,46): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\ShapeDrawer.h(68,48): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\ShapeDrawer.h(69,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\ShapeDrawer.h(154,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\ShapeDrawer.h(155,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(119,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(196,31): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(223,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(234,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(235,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(255,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(255,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(255,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(280,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(301,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(301,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(301,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Lindenmayer.h(302,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(140,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(140,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(145,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(145,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(145,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(157,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(157,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(157,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(165,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(165,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(165,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(175,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(186,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(192,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(198,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(214,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(215,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(222,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(243,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(244,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(244,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(245,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(245,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(246,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\main.cpp(246,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Project6.vcxproj -> D:\Academics\7_sem\Comp Graphics\Assignment 1\2020B2A71973H_CG_A1(1)\Project6\Debug\Project6.exe
